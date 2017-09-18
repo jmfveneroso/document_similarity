@@ -1,0 +1,70 @@
+A Study in Scarlet, Arthur Conan Doyle, 244
+Adventures of Huckleberry Finn, Mark Twain, 76
+Anna Karenina, graf Leo Tolstoy, 1399
+An Inquiry into the Nature and Causes of the Wealth of Nations, Adam Smith, 3300
+Emma, Jane Austen, 158
+The Adventures of Sherlock Holmes, Arthur Conan Doyle, 1661
+Gulliver's Travels, Jonathan Swift, 829
+Crime and Punishment, Fyodor Dostoyevsky, 2554
+Autobiography of Benjamin Franklin, Benjamin Franklin, 20203
+Pride and Prejudice, Jane Austen, 1342
+The Hound of the Baskervilles, Arthur Conan Doyle, 2852
+The Adventures of Tom Sawyer, Mark Twain, 74
+Les Misérables, Victor Hugo, 135
+Beyond Good and Evil, Friedrich Wilhelm Nietzsche, 4363
+Sense and Sensibility, Jane Austen, 161
+The Return of Sherlock Holmes, Arthur Conan Doyle, 108
+The Jungle Book, Rudyard Kipling, 236
+The Brothers Karamazov, Fyodor Dostoyevsky, 28054
+Il Principe, Machiavelli, 1232
+The Sign of the Four, Arthur Conan Doyle, 2097
+Three Men in a Boat, Jerome K. Jerome, 308
+The Count of Monte Cristo, Illustrated by Alexandre Dumas, 1184
+Second Treatise of Government, John Locke, 7370
+Treasure Island, Robert Louis Stevenson, 120
+War and Peace, graf Leo Tolstoy, 2600
+Leviathan, Thomas Hobbes, 3207
+Ulysses, James Joyce, 4300
+The Life and Adventures of Robinson Crusoe, Daniel Defoe, 521
+The Republic, Plato, 1497
+Utopia, Saint Thomas More, 2130
+A Doll's House: a play, Henrik Ibsen, 2542
+A Tale of Two Cities, Charles Dickens, 98
+A Christmas Carol in Prose; Being a Ghost Story of Christmas, Charles Dickens, 46
+Common Sense, Thomas Paine, 147
+Frankenstein; Or, The Modern Prometheus, Mary Wollstonecraft Shelley, 84
+Pygmalion, Bernard Shaw, 3825
+Anne of Green Gables, L. M. Montgomery, 45
+Alice's Adventures in Wonderland, Lewis Carroll, 11
+Don Quixote, Miguel de Cervantes Saavedra, 996
+Moby Dick; Or, The Whale, Herman Melville, 2701
+The Importance of Being Earnest: A Trivial Comedy for Serious People, Oscar Wilde, 844
+David Copperfield, Charles Dickens, 766
+Around the World in Eighty Days, Jules Verne, 103
+Paradise Lost, John Milton, 20
+The Scarlet Letter, Nathaniel Hawthorne, 33
+Great Expectations, Charles Dickens, 1400
+Candide, Voltaire, 19942
+Songs of Innocence, and Songs of Experience, William Blake, 1934
+The Works of Edgar Allan Poe — Volume 1, Edgar Allan Poe, 2147
+Jane Eyre - An Autobiography, Charlotte Brontë, 1260
+Dracula, Bram Stoker, 345
+The Complete Works of William Shakespeare, William Shakespeare, 100
+The Works of Edgar Allan Poe — Volume 2, Edgar Allan Poe, 2148
+Oliver Twist, Charles Dickens, 730
+Metamorphosis, Franz Kafka, 5200
+The Divine Comedy, Dante (Illustrated by Dante Alighieri), 8789
+Walden, and On The Duty Of Civil Disobedience, Henry David Thoreau, 205
+The Picture of Dorian Gray, Oscar Wilde, 174
+Peter Pan, J. M. Barrie, 16
+The Iliad, Homer, 6130
+The Secret Adversary, Agatha Christie, 1155
+The Mysterious Affair at Styles, Agatha Christie, 863
+The King James Version of the Bible, 10
+Wuthering Heights, Emily Brontë, 768
+The Strange Case of Dr. Jekyll and Mr Hyde, 42
+The Tragedy of Romeo and Juliet, William Shakespeare, 1112
+The Time Machine, H. G. Wells, 35
+The War of the Worlds, H. G. Wells, 36
+The Wonderful Wizard of Oz, L. Frank Baum, 55
+Through the Looking-Glass, Lewis Carroll, 12

@@ -1,0 +1,280 @@
+Processing books_stemmed/book_01.txt file...
+Starting training using file books_stemmed/book_01.txt
+Vocab size: 1081
+Words in train file: 38981
+Processing books_stemmed/book_02.txt file...
+Starting training using file books_stemmed/book_02.txt
+Vocab size: 1616
+Words in train file: 112752
+Processing books_stemmed/book_03.txt file...
+Starting training using file books_stemmed/book_03.txt
+Vocab size: 3546
+Words in train file: 350235
+Alpha: 0.000683  Progress: 97.92%  Words/thread/sec: 138.94k  Processing books_stemmed/book_04.txt file...
+Starting training using file books_stemmed/book_04.txt
+Vocab size: 2718
+Words in train file: 373781
+Alpha: 0.000002  Progress: 102.87%  Words/thread/sec: 145.02k  Processing books_stemmed/book_05.txt file...
+Starting training using file books_stemmed/book_05.txt
+Vocab size: 1899
+Words in train file: 157296
+Alpha: 0.000002  Progress: 104.44%  Words/thread/sec: 151.24k  Processing books_stemmed/book_06.txt file...
+Starting training using file books_stemmed/book_06.txt
+Vocab size: 1894
+Words in train file: 99471
+Processing books_stemmed/book_07.txt file...
+Starting training using file books_stemmed/book_07.txt
+Vocab size: 2000
+Words in train file: 98975
+Processing books_stemmed/book_08.txt file...
+Starting training using file books_stemmed/book_08.txt
+Vocab size: 2596
+Words in train file: 202401
+Alpha: 0.002536  Progress: 91.69%  Words/thread/sec: 143.94k  Processing books_stemmed/book_09.txt file...
+Starting training using file books_stemmed/book_09.txt
+Vocab size: 1656
+Words in train file: 70985
+Processing books_stemmed/book_10.txt file...
+Starting training using file books_stemmed/book_10.txt
+Vocab size: 1708
+Words in train file: 118717
+Processing books_stemmed/book_11.txt file...
+Starting training using file books_stemmed/book_11.txt
+Vocab size: 1307
+Words in train file: 55201
+Processing books_stemmed/book_12.txt file...
+Starting training using file books_stemmed/book_12.txt
+Vocab size: 1606
+Words in train file: 68206
+Processing books_stemmed/book_13.txt file...
+Starting training using file books_stemmed/book_13.txt
+Vocab size: 5731
+Words in train file: 559722
+Alpha: 0.000002  Progress: 101.09%  Words/thread/sec: 136.75k  Processing books_stemmed/book_14.txt file...
+Starting training using file books_stemmed/book_14.txt
+Vocab size: 1482
+Words in train file: 57794
+Processing books_stemmed/book_15.txt file...
+Starting training using file books_stemmed/book_15.txt
+Vocab size: 1711
+Words in train file: 116478
+Processing books_stemmed/book_16.txt file...
+Starting training using file books_stemmed/book_16.txt
+Vocab size: 2005
+Words in train file: 107782
+Processing books_stemmed/book_17.txt file...
+Starting training using file books_stemmed/book_17.txt
+Vocab size: 1139
+Words in train file: 48504
+Processing books_stemmed/book_18.txt file...
+Starting training using file books_stemmed/book_18.txt
+Vocab size: 3430
+Words in train file: 352462
+Alpha: 0.001940  Progress: 93.27%  Words/thread/sec: 139.46k  Processing books_stemmed/book_19.txt file...
+Starting training using file books_stemmed/book_19.txt
+Vocab size: 1126
+Words in train file: 45258
+Processing books_stemmed/book_20.txt file...
+Starting training using file books_stemmed/book_20.txt
+Vocab size: 1037
+Words in train file: 38817
+Processing books_stemmed/book_21.txt file...
+Starting training using file books_stemmed/book_21.txt
+Vocab size: 1464
+Words in train file: 63244
+Processing books_stemmed/book_22.txt file...
+Starting training using file books_stemmed/book_22.txt
+Vocab size: 4309
+Words in train file: 457257
+Alpha: 0.001489  Progress: 94.53%  Words/thread/sec: 136.77k  Processing books_stemmed/book_23.txt file...
+Starting training using file books_stemmed/book_23.txt
+Vocab size: 986
+Words in train file: 52935
+Processing books_stemmed/book_24.txt file...
+Starting training using file books_stemmed/book_24.txt
+Vocab size: 1380
+Words in train file: 65399
+Processing books_stemmed/book_25.txt file...
+Starting training using file books_stemmed/book_25.txt
+Vocab size: 4927
+Words in train file: 562332
+Alpha: 0.001609  Progress: 94.25%  Words/thread/sec: 134.71k  Processing books_stemmed/book_26.txt file...
+Starting training using file books_stemmed/book_26.txt
+Vocab size: 2334
+Words in train file: 206072
+Alpha: 0.001357  Progress: 96.34%  Words/thread/sec: 155.50k  Processing books_stemmed/book_27.txt file...
+Starting training using file books_stemmed/book_27.txt
+Vocab size: 4834
+Words in train file: 243219
+Alpha: 0.001719  Progress: 93.99%  Words/thread/sec: 132.64k  Processing books_stemmed/book_28.txt file...
+Starting training using file books_stemmed/book_28.txt
+Vocab size: 1722
+Words in train file: 117400
+Processing books_stemmed/book_29.txt file...
+Starting training using file books_stemmed/book_29.txt
+Vocab size: 2554
+Words in train file: 210889
+Alpha: 0.001159  Progress: 97.07%  Words/thread/sec: 151.12k  Processing books_stemmed/book_30.txt file...
+Starting training using file books_stemmed/book_30.txt
+Vocab size: 992
+Words in train file: 39761
+Processing books_stemmed/book_31.txt file...
+Starting training using file books_stemmed/book_31.txt
+Vocab size: 577
+Words in train file: 24984
+Processing books_stemmed/book_32.txt file...
+Starting training using file books_stemmed/book_32.txt
+Vocab size: 2330
+Words in train file: 131091
+Alpha: 0.000002  Progress: 104.47%  Words/thread/sec: 155.00k  Processing books_stemmed/book_33.txt file...
+Starting training using file books_stemmed/book_33.txt
+Vocab size: 734
+Words in train file: 24910
+Processing books_stemmed/book_34.txt file...
+Starting training using file books_stemmed/book_34.txt
+Vocab size: 678
+Words in train file: 18854
+Processing books_stemmed/book_35.txt file...
+Starting training using file books_stemmed/book_35.txt
+Vocab size: 1683
+Words in train file: 69782
+Processing books_stemmed/book_36.txt file...
+Starting training using file books_stemmed/book_36.txt
+Vocab size: 778
+Words in train file: 30716
+Processing books_stemmed/book_37.txt file...
+Starting training using file books_stemmed/book_37.txt
+Vocab size: 1813
+Words in train file: 101173
+Processing books_stemmed/book_38.txt file...
+Starting training using file books_stemmed/book_38.txt
+Vocab size: 705
+Words in train file: 25118
+Processing books_stemmed/book_39.txt file...
+Starting training using file books_stemmed/book_39.txt
+Vocab size: 4074
+Words in train file: 420063
+Alpha: 0.000002  Progress: 101.98%  Words/thread/sec: 142.86k  Processing books_stemmed/book_40.txt file...
+Starting training using file books_stemmed/book_40.txt
+Vocab size: 3799
+Words in train file: 206763
+Alpha: 0.001710  Progress: 97.04%  Words/thread/sec: 137.98k  Processing books_stemmed/book_41.txt file...
+Starting training using file books_stemmed/book_41.txt
+Vocab size: 588
+Words in train file: 18507
+Processing books_stemmed/book_42.txt file...
+Starting training using file books_stemmed/book_42.txt
+Vocab size: 3676
+Words in train file: 354719
+Alpha: 0.002387  Progress: 91.09%  Words/thread/sec: 140.92k  Processing books_stemmed/book_43.txt file...
+Starting training using file books_stemmed/book_43.txt
+Vocab size: 1549
+Words in train file: 58560
+Processing books_stemmed/book_44.txt file...
+Starting training using file books_stemmed/book_44.txt
+Vocab size: 1973
+Words in train file: 74431
+Processing books_stemmed/book_45.txt file...
+Starting training using file books_stemmed/book_45.txt
+Vocab size: 2021
+Words in train file: 78755
+Processing books_stemmed/book_46.txt file...
+Starting training using file books_stemmed/book_46.txt
+Vocab size: 2595
+Words in train file: 180930
+Alpha: 0.000192  Progress: 102.34%  Words/thread/sec: 149.41k  Processing books_stemmed/book_47.txt file...
+Starting training using file books_stemmed/book_47.txt
+Vocab size: 974
+Words in train file: 31071
+Processing books_stemmed/book_48.txt file...
+Starting training using file books_stemmed/book_48.txt
+Vocab size: 243
+Words in train file: 4212
+Processing books_stemmed/book_49.txt file...
+Starting training using file books_stemmed/book_49.txt
+Vocab size: 2060
+Words in train file: 84138
+Processing books_stemmed/book_50.txt file...
+Starting training using file books_stemmed/book_50.txt
+Vocab size: 3057
+Words in train file: 180455
+Alpha: 0.000165  Progress: 100.46%  Words/thread/sec: 146.47k  Processing books_stemmed/book_51.txt file...
+Starting training using file books_stemmed/book_51.txt
+Vocab size: 2186
+Words in train file: 156186
+Alpha: 0.001902  Progress: 95.00%  Words/thread/sec: 152.03k  Processing books_stemmed/book_52.txt file...
+Starting training using file books_stemmed/book_52.txt
+Vocab size: 6695
+Words in train file: 912053
+Alpha: 0.000002  Progress: 100.81%  Words/thread/sec: 127.42k  Processing books_stemmed/book_53.txt file...
+Starting training using file books_stemmed/book_53.txt
+Vocab size: 2241
+Words in train file: 88880
+Processing books_stemmed/book_54.txt file...
+Starting training using file books_stemmed/book_54.txt
+Vocab size: 2541
+Words in train file: 154916
+Alpha: 0.000002  Progress: 106.37%  Words/thread/sec: 145.22k  Processing books_stemmed/book_55.txt file...
+Starting training using file books_stemmed/book_55.txt
+Vocab size: 594
+Words in train file: 19969
+Processing books_stemmed/book_56.txt file...
+Starting training using file books_stemmed/book_56.txt
+Vocab size: 1054
+Words in train file: 32835
+Processing books_stemmed/book_57.txt file...
+Starting training using file books_stemmed/book_57.txt
+Vocab size: 2350
+Words in train file: 108664
+Processing books_stemmed/book_58.txt file...
+Starting training using file books_stemmed/book_58.txt
+Vocab size: 1539
+Words in train file: 74748
+Processing books_stemmed/book_59.txt file...
+Starting training using file books_stemmed/book_59.txt
+Vocab size: 1024
+Words in train file: 43795
+Processing books_stemmed/book_60.txt file...
+Starting training using file books_stemmed/book_60.txt
+Vocab size: 3170
+Words in train file: 186485
+Alpha: 0.002034  Progress: 93.57%  Words/thread/sec: 134.93k  Processing books_stemmed/book_61.txt file...
+Starting training using file books_stemmed/book_61.txt
+Vocab size: 1526
+Words in train file: 72771
+Processing books_stemmed/book_62.txt file...
+Starting training using file books_stemmed/book_62.txt
+Vocab size: 1190
+Words in train file: 53632
+Processing books_stemmed/book_63.txt file...
+Starting training using file books_stemmed/book_63.txt
+Vocab size: 4188
+Words in train file: 782739
+Alpha: 0.001477  Progress: 94.40%  Words/thread/sec: 147.29k  Processing books_stemmed/book_64.txt file...
+Starting training using file books_stemmed/book_64.txt
+Vocab size: 2207
+Words in train file: 112608
+Processing books_stemmed/book_65.txt file...
+Starting training using file books_stemmed/book_65.txt
+Vocab size: 718
+Words in train file: 22158
+Processing books_stemmed/book_66.txt file...
+Starting training using file books_stemmed/book_66.txt
+Vocab size: 712
+Words in train file: 23023
+Processing books_stemmed/book_67.txt file...
+Starting training using file books_stemmed/book_67.txt
+Vocab size: 880
+Words in train file: 28429
+Processing books_stemmed/book_68.txt file...
+Starting training using file books_stemmed/book_68.txt
+Vocab size: 1466
+Words in train file: 55072
+Processing books_stemmed/book_69.txt file...
+Starting training using file books_stemmed/book_69.txt
+Vocab size: 850
+Words in train file: 37510
+Processing books_stemmed/book_70.txt file...
+Starting training using file books_stemmed/book_70.txt
+Vocab size: 756
+Words in train file: 28142
